@@ -23,3 +23,5 @@ I'm interested in software engineering and computer systems, with experience acr
 **Systems & Tools:** Linux · Claude Code ·Git · Docker · Firecracker · CloudLab · RDMA · CXL
 
 **Frameworks & Platforms:** React Native · Expo · Spring Boot · Firebase · Cloud Firestore
+
+Some client and product work is maintained in private repositories.
